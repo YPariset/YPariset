@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **ypariset@proton.me**
 
-
-
+<hr/>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypariset&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
