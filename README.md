@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yoann Pariset</h1>
+<h1 align="center">Hi 👋  I'm Yoann Pariset</h1>
 <h3 align="center">A passionate Digital Craftsman (Developer / Designer).</h3>
 
 - 🤖 My interest is in **Web development**
