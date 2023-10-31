@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently exploring **AI Tools**
 
-- 👯 I’m looking to collaborate on **Fintech Projects**
-
 - 📫 How to reach me **ypariset@proton.me**
 
 <hr/>
