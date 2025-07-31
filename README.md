@@ -3,7 +3,7 @@
 
 - 🤖 My interest is in **Web development**
 
-- 💻 I have experience of working with **JAVA, JavaScript, CSS, Spring, Thymeleaf, Tailwind CSS, Bootstrap, React Projects**
+- 💻 I have experience of working with **Java, JavaScript, CSS, Spring, SQL, Thymeleaf, React Projects and Angular Projects**
 
 - 🌱 I’m currently exploring **AI Tools**
 
